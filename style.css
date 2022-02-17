@@ -49,9 +49,46 @@ body{
     margin-right: 60px;
 }
 section{
-    padding-bottom: 100px;
-    background-image: url(personal-website/biography-bg.png);
+  background-image: url(personal-website/biography-bg.png);
+  background-size: 100%;
+  background-repeat: no-repeat; 
+}
+.third-part{
+    margin-top: 300px;
+    padding-left: 450px;
+}
+.first-work{
+    width: 300px;
+    margin-left: 20px;
+    background-image: url(personal-website/latest-work-bg.png);
     background-repeat: no-repeat;
- 
-    
+}
+.last-part{
+    margin-top: 100px;
+    padding-left: 430px;
+}
+.last-partheading{
+    margin-top: 50px;
+    padding-left: 495px;
+}
+.last-partheading1{
+    padding-left: 490px;
+}
+.last-partparagraph{
+    margin-top: 50px;
+    padding-left: 220px;
+}
+.last-position{
+ background-image: linear-gradient(deeppink,rgb(231, 117, 212));
+ width: 70%;
+ margin-left: 100px;
+ padding-right: 100px;
+ color: white;
+}
+.last-positionheading{
+    margin-top: 100px;
+    padding-left: 380px;
+}
+.last-positionheading1{
+    padding-left: 325px;
 }
